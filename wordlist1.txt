@@ -1,0 +1,8 @@
+www
+forum
+app
+ctf
+help
+academy
+status
+sso
